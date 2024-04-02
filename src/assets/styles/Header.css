@@ -1,0 +1,62 @@
+:root {
+  --main-color-red: #d2161e;
+  --sec-color-red: #eda2a5;
+}
+
+.bg-red {
+  background-color: var(--main-color-red);
+}
+
+.h-10 {
+  height: 24px;
+}
+
+.betclic-img {
+  height: 35px;
+  transform: scale(0.65);
+  margin-right: 16px;
+}
+
+.text-active {
+  color: white !important;
+  font-weight: 700;
+}
+
+body,
+.nav-link {
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.nav-link {
+  padding: 0px 16px;
+  color: var(--sec-color-red);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.btn {
+  font-size: 0.8rem;
+  font-weight: 500;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background-color: white;
+  color: var(--main-color-red);
+}
+
+.btn-primary:hover {
+  background-color: #999;
+}
+
+.btn-secondary {
+  background-color: #db454b;
+  color: white;
+}
