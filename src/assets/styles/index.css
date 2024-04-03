@@ -1,3 +1,11 @@
+:root {
+  --main-color-red: #d2161e;
+  --sec-color-red: #eda2a5;
+  --white-chelou: #eef0f3;
+}
+
 body {
-  background-color: #eef0f3;
+  background-color: var(--white-chelou);
+  font-family: "Roboto";
+  font-size: 14px;
 }

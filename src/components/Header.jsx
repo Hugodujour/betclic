@@ -14,34 +14,34 @@ function Header() {
               <img src={Betclic} className="betclic-img" />
             </a>
 
-            <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+            <ul className="nav  col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
               <li>
-                <a href="#" className="nav-link text-active">
+                <a href="#" className="nav-link text-active d-lg-block d-none">
                   Sport
                 </a>
               </li>
               <li>
-                <a href="#" className="nav-link">
+                <a href="#" className="nav-link d-lg-block d-none">
                   Live
                 </a>
               </li>
               <li>
-                <a href="#" className="nav-link">
+                <a href="#" className="nav-link d-lg-block d-none">
                   Défis
                 </a>
               </li>
               <li>
-                <a href="#" className="nav-link">
+                <a href="#" className="nav-link d-lg-block d-none">
                   Promotions
                 </a>
               </li>
               <li>
-                <a href="#" className="nav-link">
+                <a href="#" className="nav-link d-lg-block d-none">
                   Poker
                 </a>
               </li>
               <li>
-                <a href="#" className="nav-link">
+                <a href="#" className="nav-link d-lg-block d-none">
                   Turf
                 </a>
               </li>

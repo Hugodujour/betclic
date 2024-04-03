@@ -1,14 +1,5 @@
-:root {
-  --main-color-red: #d2161e;
-  --sec-color-red: #eda2a5;
-}
-
 .bg-red {
   background-color: var(--main-color-red);
-}
-
-.h-10 {
-  height: 24px;
 }
 
 .betclic-img {
@@ -22,13 +13,9 @@
   font-weight: 700;
 }
 
-body,
 .nav-link {
   font-family: "Roboto";
   font-size: 14px;
-}
-
-.nav-link {
   padding: 0px 16px;
   color: var(--sec-color-red);
   text-decoration: none;

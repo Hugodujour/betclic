@@ -1,0 +1,25 @@
+.card-pari {
+  background-color: white;
+  height: 100%;
+  width: 350px;
+  margin: 20px 12px;
+  border-radius: 14px;
+}
+
+.top-pari {
+  padding: 12px;
+  font-weight: 700;
+  border-bottom: 1px solid var(--white-chelou);
+}
+
+.mid-pari {
+  overflow-y: auto;
+  height: 60vh;
+}
+
+.bot-pari {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 1.2em;
+  border-top: 1px solid var(--white-chelou);
+}
