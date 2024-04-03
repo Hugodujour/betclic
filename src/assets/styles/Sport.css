@@ -1,0 +1,16 @@
+.red {
+  width: calc(100vw - 710px);
+  padding: 20px 24px;
+  transform: translateX(-7px);
+}
+
+.imaged {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+.imaged2 {
+  width: 100%;
+  border-radius: 12px;
+}
